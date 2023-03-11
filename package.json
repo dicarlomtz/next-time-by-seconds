@@ -1,0 +1,10 @@
+{
+  "name": "next-time-by-seconds",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
